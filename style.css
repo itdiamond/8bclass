@@ -54,3 +54,6 @@ a.vk {
     border-radius: 2em;
     transition: all .3s ease-out;
     }
+    a.theme {
+        text-decoration: none;  font-size: 150%; color: dimgray;
+    }
